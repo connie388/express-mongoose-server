@@ -1,5 +1,4 @@
 .env
 node_modules
-config/
 setup.txt   
 server_mysql.js
